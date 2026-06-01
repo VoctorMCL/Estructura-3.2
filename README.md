@@ -23,20 +23,20 @@ El código fuente principal con toda la lógica del programa se encuentra en la 
 A continuación se muestran las pruebas de ejecución del sistema, demostrando las operaciones de registro, procesamiento, visualización de pendientes y manejo de errores:
 
 ### Imagen 1: Registro de trabajos
-![Registro](img/imagen1.png)
+![Registro](img/Imagen1.png)
 
 ### Imagenes 2, 3 y 4: Consultas y procesamient
-![Procesamiento](img/imagen2.png)
-![Procesamiento2](img/imagen3.png)
-![Procesamiento3](img/imagen4.png)
+![Procesamiento](img/Imagen2.png)
+![Procesamiento2](img/Imagen3.png)
+![Procesamiento3](img/Imagen4.png)
 
 ### Imagenes 5 y 6: Visualización de trabajos pendientes y totales
-![Pendientes](img/imagen5.png)
-![Pendientes2](img/imagen6.png)
+![Pendientes](img/Imagen5.png)
+![Pendientes2](img/Imagen6.png)
 
 ### Imagenes 7 y 8: Validación de errores 
-![Errores](img/imagen7.png)
-![Errores2](img/imagen8.png)
+![Errores](img/Imagen7.png)
+![Errores2](img/Imagen8.png)
 
 ---
 **Desarrollado por:** Victor Manuel Cordoba Larez
