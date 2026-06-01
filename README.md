@@ -27,15 +27,19 @@ A continuación se muestran las pruebas de ejecución del sistema, demostrando l
 
 ### Imagenes 2, 3 y 4: Consultas y procesamient
 ![Procesamiento](img/Imagen2.png)
+
 ![Procesamiento2](img/Imagen3.png)
+
 ![Procesamiento3](img/Imagen4.png)
 
 ### Imagenes 5 y 6: Visualización de trabajos pendientes y totales
 ![Pendientes](img/Imagen5.png)
+
 ![Pendientes2](img/Imagen6.png)
 
 ### Imagenes 7 y 8: Validación de errores 
 ![Errores](img/Imagen7.png)
+
 ![Errores2](img/Imagen8.png)
 
 ---
